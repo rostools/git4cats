@@ -35,7 +35,7 @@
     "body": [
       "## :technologist: Exercise: ${0:Title}",
       "",
-      "> Time: ~${1:Minutes} minutes.",
+      "**Time: ~${1:Minutes} minutes.**",
       "",
       "${2:Text}",
     ],
@@ -45,9 +45,9 @@
     "scope": "quarto,markdown",
     "prefix": "discussion",
     "body": [
-      "## :speech_balloon: Discussion activity: ~${0:Title}",
+      "## :speech_balloon: Discussion activity: ${0:Title}",
       "",
-      "**Time: ~${1:Minutes}**",
+      "**Time: ~${1:Minutes} minutes.**",
       "",
       "${2:Text}",
     ],
