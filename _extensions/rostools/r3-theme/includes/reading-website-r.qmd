@@ -1,4 +1,4 @@
-We will explain this a bit during the course, but read this to start
+We will explain this a bit during the workshop, but read this to start
 learning how the website is structured and how to read certain things.
 Specifically, there are a few "syntax" type formatting of the text in
 this website to be aware of:
