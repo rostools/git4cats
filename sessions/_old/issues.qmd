@@ -48,9 +48,9 @@ A *feature request* is a suggestion of a new feature, functionality, or improvem
 
 When creating a feature request, first present the feature you want implemented. This includes a concise description of the problem to be addressed. A good practice is to be clear as you can on what parts of the problem that are considered to be in-scope and out-of-scope of the issue.
 
-If possible, yuo can include a concise suggestion to a solution Things to address include details of the technical implementation, tradeoffs made in design decisions, and caveats and considerations for the future.
+If possible, you can include a concise suggestion to a solution Things to address include details of the technical implementation, tradeoffs made in design decisions, and caveats and considerations for the future.
 
-To clearly communicate that an issue is a feature request, you can add this to the title of the issue like so: `feature: <issue-title>`. Remember the the title should be concise and clearly communicate the 
+To clearly communicate that an issue is a feature request, you can add this to the title of the issue like so: `feature: <issue-title>`. Remember the the title should be concise and clearly communicate the
 
 ### Bug Reports
 
@@ -110,7 +110,7 @@ Since issues can be so multifaceted, they can be created in a lot of different w
 
 ### Issues using the Command Line
 
-To create an issue using the command line, you will need [GitHub CLI](https://cli.github.com/), an open-source command-line interface for GitHub. 
+To create an issue using the command line, you will need [GitHub CLI](https://cli.github.com/), an open-source command-line interface for GitHub.
 If you want to learn more about GitHub CLI, see the [About GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli) post in GitHub Docs.
 
 Once you have GitHub CLI  installed, you can create an issue from the command line (when you are within your Git repository) using the following command:
@@ -147,4 +147,4 @@ WIP: https://leonardomontini.dev/manage-issues-vscode-github/
 
 ## Summary
 
-- 
+-

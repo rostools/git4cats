@@ -79,7 +79,7 @@ When this is done, your code will be pushed to the remote repository and your co
 First, open a Terminal in the folder you would like to create your repository in. To navigate to folders in the Terminal, use the `cd` command. If you can't remember which folders are accessible, press `Tab` to see them.
 
 ```bash
-cd /path/to/your/project/folder 
+cd /path/to/your/project/folder
 ```
 
 Then, initialise the new repository:
@@ -152,7 +152,7 @@ First, go to the GitHub repository you want to clone on GitHub. Then, click the 
 Then, open a Terminal in the folder you would like to clone the repository in. To navigate folders in the Terminal, use the `cd` command. If you can't remember which folders are accessible, press `Tab` to see them.
 
 ```bash
-cd /path/to/your/project/folder 
+cd /path/to/your/project/folder
 ```
 
 To clone the repository, use the `git clone`command` followed by the repository URL you just copied:

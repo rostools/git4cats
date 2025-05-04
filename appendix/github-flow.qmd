@@ -9,63 +9,63 @@ categories:
 references:
   - id: sooni
     title: A guide to trunk-based development (LogRocket)
-    author: 
+    author:
       family: Sooni
       given: S
-    issued: 
+    issued:
       year: 2023
     URL: https://blog.logrocket.com/product-management/a-guide-to-trunk-based-development/#whatistrunkbaseddevelopment
   - id: tilburg
     title: Git Branching Strategies (Tilburg Science Hub)
-    author: 
+    author:
       family: Ambroziak
       given: Paulina
-    issued: 
+    issued:
       year: n.d.
     URL: https://tilburgsciencehub.com/building-blocks/collaborate-and-share-your-work/use-github/git-branching-strategies/
   - id: tbd
     title: Trunk-based development
-    author: 
+    author:
       family: Hammant,
       given: Paul
-    issued: 
+    issued:
       year: 2017-2020
     URL: https://trunkbaseddevelopment.com
   - id: thummala
     title: "Choosing the Right Git Branching Strategy: A Comparative Analysis"
-    author: 
+    author:
       family: Thummala
       given: S
-    issued: 
+    issued:
       year: 2023
     URL: https://medium.com/@sreekanth.thummala/choosing-the-right-git-branching-strategy-a-comparative-analysis-f5e635443423#
   - id: driessen
     title: A successful Git branching model
-    author: 
+    author:
       family: Driessen
       given: V
-    issued: 
+    issued:
       year: 2010
     URL: https://nvie.com/posts/a-successful-git-branching-model/
   - id: gitkraken
     title: What is the best Git branch strategy?
-    author: 
+    author:
       family: GitKraken
-    issued: 
+    issued:
       year: n.d.
     URL: https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy
   - id: githubflowpost
     title: GitHub Flow - The best way to use Git and GitHub
-    author: 
+    author:
       family: GitHub
-    issued: 
+    issued:
       year: n.d.
     URL: https://githubflow.github.io
   - id: githubflow
     title: GitHub flow - Follow GitHub flow to collaborateon projects.
-    author: 
+    author:
       family: GitHub
-    issued: 
+    issued:
       year: n.d.
     URL: https://docs.github.com/en/get-started/quickstart/github-flow
 
@@ -101,7 +101,7 @@ have arisen that impact work.
 
 With collaborative software development, each developer might have their own way of doing things such as branching, committing, creating pull requests and issues, and reviewing. However, explicitly agreeing on how we do these things will ensure common workflows across developers to help along efficient collaboration.
 
-When a team follows the same workflows, the focus can be shifted from trying to understand *what* each other are currently working on (*how* the problem at hand is solved, and *why* this work is needed) to harnessing each other's expertise and prior experience and highting the quality of everyone's work.
+When a team follows the same workflows, the focus can be shifted from trying to understand *what* each other are currently working on (*how* the problem at hand is solved, and *why* this work is needed) to harnessing each other's expertise and prior experience and highlighting the quality of everyone's work.
 
 For the Seedcase project, we want to employ a branching strategy that:
 
