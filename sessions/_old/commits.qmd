@@ -115,8 +115,8 @@ Issue: #31 (update decision posts to fit new template)
 ```default
 feat(t-test): add option to change significance level
 
-For the second part of our analysis, we want to be able to change the 
-significance level to 0.01 following existing literature. 
+For the second part of our analysis, we want to be able to change the
+significance level to 0.01 following existing literature.
 The default is still 0.05.
 ```
 

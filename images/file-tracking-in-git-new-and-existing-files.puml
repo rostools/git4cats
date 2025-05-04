@@ -14,4 +14,4 @@ Modified -> Staged: Stage changes\nin existing file(s)
 Staged -> Unmodified: Commit staged changes
 Unmodified -> Untracked: Remove file
 
-@enduml 
+@enduml

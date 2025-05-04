@@ -9,4 +9,4 @@
 "Developer 2\nfeature/add-scatter-plot" -> "Main branch": After PR and review,\nchanges are merged into main
 "Developer 2\nfeature/add-scatter-plot" -> "Developer 2\nfeature/add-scatter-plot" !! : Delete
 
-@enduml 
+@enduml

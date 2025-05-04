@@ -9,7 +9,7 @@ Say that you are following the [GitHub flow](index.md#branching-strategy-github-
 ![Pull requests and reviews within the GitHub flow](../images/github-flow-pr.png)
 
 Ensuring that the changes are reviewed by others before they are merged into the codebase, serves multiple purposes. This process:
-  
+
   1. Helps to maintain the code quality (and minimise the risk of errors)
   2. Facilitates collaboration (review and discussion of suggested changes)
   3. Provides a structured process for integrating new developments into a project

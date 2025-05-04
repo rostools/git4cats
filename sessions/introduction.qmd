@@ -21,7 +21,7 @@ the keyboard.
 
 This section gives a wide overview of the course. We'll go into what we
 are going to do during the course, why we want to do it, and how we are going to go about
-doing it. We'll also take a peak at what we will have created by the end of the course. 
+doing it. We'll also take a peak at what we will have created by the end of the course.
 
 We'll use specific
 terminology below to explicitly describe what we will cover during the
@@ -82,8 +82,8 @@ where it is needed.
 
 We've described why we want to work better together, but now *how* do we
 go about *explicitly* working better together. Below are some
-reasons for why we use and recommend these specific tools and practices as the most 
-optimal and effective for collaborating as a team, 
+reasons for why we use and recommend these specific tools and practices as the most
+optimal and effective for collaborating as a team,
 based on our experiences and our research into what others also use:
 
 -   We use Git and GitHub because they are both incredibly popular tools
